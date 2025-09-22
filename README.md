@@ -2,15 +2,18 @@
 
 <!--
 **Amayarenee3/Amayarenee3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👩🏽‍💻 About Me
 
-Here are some ideas to get you started:
+Hi! My name is Amaya Washington.  
+- 📍 From St. Louis, MO  
+- 🎓 Senior at Jackson State University 
+- 💻 Majoring in Computer Science 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 Interests
+- Cybersecurity 🔐  
+- Software development 💻  
+- Tech innovation 🚀  
+
+## 📫 Connect with me
+- [LinkedIn](https://www.linkedin.com) *(add your link here)*  
+- [Portfolio/Website](https://) *(optional)*  
